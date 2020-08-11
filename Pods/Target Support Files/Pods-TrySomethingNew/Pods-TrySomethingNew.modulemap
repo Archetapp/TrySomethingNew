@@ -1,0 +1,6 @@
+framework module Pods_TrySomethingNew {
+  umbrella header "Pods-TrySomethingNew-umbrella.h"
+
+  export *
+  module * { export * }
+}

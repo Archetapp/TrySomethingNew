@@ -1,0 +1,6 @@
+framework module Pods_TrySomethingNew_TrySomethingNewUITests {
+  umbrella header "Pods-TrySomethingNew-TrySomethingNewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
